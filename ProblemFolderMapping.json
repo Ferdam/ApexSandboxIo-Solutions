@@ -1,0 +1,492 @@
+[
+    {
+        "problemNumber": "problem_18",
+        "problemTitle": "Teenager",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_4",
+        "problemTitle": "Number Difference",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_14",
+        "problemTitle": "Sum Equals",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_20",
+        "problemTitle": "Ascending Order",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_21",
+        "problemTitle": "A or An",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_3",
+        "problemTitle": "Largest of Three",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_19",
+        "problemTitle": "Passing Students",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_90",
+        "problemTitle": "Ends With 0",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_15",
+        "problemTitle": "Which Two",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_5",
+        "problemTitle": "Even or Odd",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_12",
+        "problemTitle": "Rock Paper Scissors",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_17",
+        "problemTitle": "Age Group",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_54",
+        "problemTitle": "Companion Plants",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_6",
+        "problemTitle": "Leap Year ",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_7",
+        "problemTitle": "Prime Number",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_16",
+        "problemTitle": "Sum 1 to N",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_9",
+        "problemTitle": "Full Name",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_10",
+        "problemTitle": "Format Name",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_11",
+        "problemTitle": "Name from Email",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_79",
+        "problemTitle": "Change Time Format",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_13",
+        "problemTitle": "Fibonacci",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_8",
+        "problemTitle": "Next Prime",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_113",
+        "problemTitle": "Reverse Order of Words",
+        "folderTitle": "Apex 101"
+    },
+    {
+        "problemNumber": "problem_126",
+        "problemTitle": "Insert Student",
+        "folderTitle": "Database 101"
+    },
+    {
+        "problemNumber": "problem_132",
+        "problemTitle": "Insert Course",
+        "folderTitle": "Database 101"
+    },
+    {
+        "problemNumber": "problem_127",
+        "problemTitle": "Register Student",
+        "folderTitle": "Database 101"
+    },
+    {
+        "problemNumber": "problem_128",
+        "problemTitle": "Active Students",
+        "folderTitle": "Database 101"
+    },
+    {
+        "problemNumber": "problem_130",
+        "problemTitle": "Unreachable Students",
+        "folderTitle": "Database 101"
+    },
+    {
+        "problemNumber": "problem_129",
+        "problemTitle": "Students Missing Info",
+        "folderTitle": "Database 101"
+    },
+    {
+        "problemNumber": "problem_131",
+        "problemTitle": "Course and Class",
+        "folderTitle": "Database 101"
+    },
+    {
+        "problemNumber": "problem_133",
+        "problemTitle": "Student List",
+        "folderTitle": "Database 101"
+    },
+    {
+        "problemNumber": "problem_134",
+        "problemTitle": "Class from Course",
+        "folderTitle": "Database 101"
+    },
+    {
+        "problemNumber": "problem_135",
+        "problemTitle": "Enroll Students",
+        "folderTitle": "Database 101"
+    },
+    {
+        "problemNumber": "problem_100",
+        "problemTitle": "sObject Type",
+        "folderTitle": "Apex Language Features"
+    },
+    {
+        "problemNumber": "problem_93",
+        "problemTitle": "Convert 15-digit ID to 18-digit ID",
+        "folderTitle": "Apex Language Features"
+    },
+    {
+        "problemNumber": "problem_97",
+        "problemTitle": "Handle Exception",
+        "folderTitle": "Apex Language Features"
+    },
+    {
+        "problemNumber": "problem_102",
+        "problemTitle": "Throw An Exception",
+        "folderTitle": "Apex Language Features"
+    },
+    {
+        "problemNumber": "problem_94",
+        "problemTitle": "Safe Navigation Operator",
+        "folderTitle": "Apex Language Features"
+    },
+    {
+        "problemNumber": "problem_103",
+        "problemTitle": "Dynamic Field Values",
+        "folderTitle": "Apex Language Features"
+    },
+    {
+        "problemNumber": "problem_95",
+        "problemTitle": "Serialize sObjects",
+        "folderTitle": "Apex Language Features"
+    },
+    {
+        "problemNumber": "problem_101",
+        "problemTitle": "List of sObjects",
+        "folderTitle": "Apex Language Features"
+    },
+    {
+        "problemNumber": "problem_96",
+        "problemTitle": "Deserialize sObjects",
+        "folderTitle": "Apex Language Features"
+    },
+    {
+        "problemNumber": "problem_106",
+        "problemTitle": "Context User",
+        "folderTitle": "Apex Language Features"
+    },
+    {
+        "problemNumber": "problem_105",
+        "problemTitle": "Trigger Validation",
+        "folderTitle": "Apex Language Features"
+    },
+    {
+        "problemNumber": "problem_98",
+        "problemTitle": "Sort List of sObjects",
+        "folderTitle": "Apex Language Features"
+    },
+    {
+        "problemNumber": "problem_56",
+        "problemTitle": "Duplicate Contacts",
+        "folderTitle": "SObjects"
+    },
+    {
+        "problemNumber": "problem_57",
+        "problemTitle": "Account Rating",
+        "folderTitle": "SObjects"
+    },
+    {
+        "problemNumber": "problem_59",
+        "problemTitle": "Contact Birthday",
+        "folderTitle": "SObjects"
+    },
+    {
+        "problemNumber": "problem_60",
+        "problemTitle": "Key Account",
+        "folderTitle": "SObjects"
+    },
+    {
+        "problemNumber": "problem_61",
+        "problemTitle": "Escalate Case",
+        "folderTitle": "SObjects"
+    },
+    {
+        "problemNumber": "problem_63",
+        "problemTitle": "Same Parent",
+        "folderTitle": "SObjects"
+    },
+    {
+        "problemNumber": "problem_64",
+        "problemTitle": "Same Parent II",
+        "folderTitle": "SObjects"
+    },
+    {
+        "problemNumber": "problem_66",
+        "problemTitle": "Set Parent Account",
+        "folderTitle": "SObjects"
+    },
+    {
+        "problemNumber": "problem_67",
+        "problemTitle": "Set Parent Case",
+        "folderTitle": "SObjects"
+    },
+    {
+        "problemNumber": "problem_92",
+        "problemTitle": "Sorting a List",
+        "folderTitle": "Lists"
+    },
+    {
+        "problemNumber": "problem_1",
+        "problemTitle": "Array Sum",
+        "folderTitle": "Lists"
+    },
+    {
+        "problemNumber": "problem_70",
+        "problemTitle": "Even Numbers",
+        "folderTitle": "Lists"
+    },
+    {
+        "problemNumber": "problem_2",
+        "problemTitle": "Largest Element",
+        "folderTitle": "Lists"
+    },
+    {
+        "problemNumber": "problem_71",
+        "problemTitle": "Positive Integers",
+        "folderTitle": "Lists"
+    },
+    {
+        "problemNumber": "problem_119",
+        "problemTitle": "Consecutive Ones",
+        "folderTitle": "Lists"
+    },
+    {
+        "problemNumber": "problem_111",
+        "problemTitle": "Insert at Beginning",
+        "folderTitle": "Lists"
+    },
+    {
+        "problemNumber": "problem_72",
+        "problemTitle": "Full Names",
+        "folderTitle": "Lists"
+    },
+    {
+        "problemNumber": "problem_55",
+        "problemTitle": "Companion Plants 2",
+        "folderTitle": "Lists"
+    },
+    {
+        "problemNumber": "problem_69",
+        "problemTitle": "Fibonacci Series",
+        "folderTitle": "Lists"
+    },
+    {
+        "problemNumber": "problem_74",
+        "problemTitle": "Org Names",
+        "folderTitle": "Lists"
+    },
+    {
+        "problemNumber": "problem_73",
+        "problemTitle": "Sorted List",
+        "folderTitle": "Lists"
+    },
+    {
+        "problemNumber": "problem_68",
+        "problemTitle": "Second Largest Element",
+        "folderTitle": "Lists"
+    },
+    {
+        "problemNumber": "problem_76",
+        "problemTitle": "Union",
+        "folderTitle": "Sets"
+    },
+    {
+        "problemNumber": "problem_77",
+        "problemTitle": "Intersection",
+        "folderTitle": "Sets"
+    },
+    {
+        "problemNumber": "problem_82",
+        "problemTitle": "Related Accounts",
+        "folderTitle": "Sets"
+    },
+    {
+        "problemNumber": "problem_81",
+        "problemTitle": "Same Elements",
+        "folderTitle": "Sets"
+    },
+    {
+        "problemNumber": "problem_80",
+        "problemTitle": "Duplicate Integers",
+        "folderTitle": "Sets"
+    },
+    {
+        "problemNumber": "problem_83",
+        "problemTitle": "Employee Email",
+        "folderTitle": "Maps"
+    },
+    {
+        "problemNumber": "problem_84",
+        "problemTitle": "Phonebook",
+        "folderTitle": "Maps"
+    },
+    {
+        "problemNumber": "problem_85",
+        "problemTitle": "Phone to Account",
+        "folderTitle": "Maps"
+    },
+    {
+        "problemNumber": "problem_86",
+        "problemTitle": "Industry Summary",
+        "folderTitle": "Maps"
+    },
+    {
+        "problemNumber": "problem_87",
+        "problemTitle": "Cases by Type",
+        "folderTitle": "Maps"
+    },
+    {
+        "problemNumber": "problem_117",
+        "problemTitle": "Implement A Stack ",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_121",
+        "problemTitle": "Implement A Singly Linked List",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_89",
+        "problemTitle": "Valid Palindrome",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_120",
+        "problemTitle": "Merge Two Sorted Lists",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_114",
+        "problemTitle": "Binary Search Opportunites",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_104",
+        "problemTitle": "Valid Anagram",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_125",
+        "problemTitle": "Add One ",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_112",
+        "problemTitle": "Valid Subsequence",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_91",
+        "problemTitle": "Reverse Words In String",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_99",
+        "problemTitle": "Buy Low and Sell High",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_115",
+        "problemTitle": "Square a sorted list",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_124",
+        "problemTitle": "Segregate Even and Odd numbers",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_88",
+        "problemTitle": "Balanced Parentheses",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_107",
+        "problemTitle": "Defragging",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_108",
+        "problemTitle": "Two Sum",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_110",
+        "problemTitle": "Maximum Sub-array ",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_109",
+        "problemTitle": "Two Sum II",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_123",
+        "problemTitle": "Count-and-say the Sequence",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_118",
+        "problemTitle": "Find Common Characters",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_116",
+        "problemTitle": "Longest Substring With Max K Distinct Characters",
+        "folderTitle": "Data Structures & Algorithms"
+    },
+    {
+        "problemNumber": "problem_122",
+        "problemTitle": "Same String",
+        "folderTitle": "Data Structures & Algorithms"
+    }
+]

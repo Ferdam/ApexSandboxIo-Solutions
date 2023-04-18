@@ -1,0 +1,3 @@
+public Boolean duplicateContacts(Contact c1, Contact c2) {
+ return (c1.Email != null && c1.Email == c2.Email) || (c1.Phone != null && c1.Phone == c2.Phone);
+}
